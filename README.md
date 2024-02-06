@@ -23,3 +23,6 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 
 ##Connect with me 
 
+[![Twitter: Akhilesh](https://img.shields.io/twitter/follow/AKY241005?style=social)](https://twitter.com/aky241005) &nbsp;&nbsp;
+[![Linkedin: Akhilesh](https://img.shields.io/badge/-AkhileshKr.-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thaianebraga/)](https://www.linkedin.com/in/akhilesh-kr-yadav) &nbsp;&nbsp;
+
