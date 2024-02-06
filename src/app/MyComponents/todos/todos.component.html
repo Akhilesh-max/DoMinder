@@ -1,3 +1,5 @@
-<ul *ngFor="let todo of todos">
-    <Li>{{todo.sno}} - {{todo.title}} - {{todo.desc}}</Li>
-</ul>
+<app-add-todos></app-add-todos>
+<h4 style="margin-left: 170px;">Your todos</h4>
+<div *ngFor="let todo of todos" >
+    <app-todo-item [todo]="todo" (todoDelete)="deleteTodo($event)"></app-todo-item>
+</div>

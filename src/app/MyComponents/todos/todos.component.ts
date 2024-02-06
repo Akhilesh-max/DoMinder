@@ -27,7 +27,7 @@ export class TodosComponent implements OnInit {
       },
       {
         sno:3,
-        title: "three",
+        title: "three",  
         desc: "nothing to day",
         active: false
   
@@ -35,5 +35,10 @@ export class TodosComponent implements OnInit {
     ]
   }
   ngOnInit(): void {
+  }
+  deleteTodo(todo:Todo){
+    console.log(todo);
+    const index = this.todos.indexOf(todo);
+    this.todos.splice(index, 1);
   }
 }
