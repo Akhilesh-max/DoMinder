@@ -1,6 +1,6 @@
 # DoMinder
 
-A basic todo list that helps you add and delete todos, serving you
+A basic todo list that helps you add and delete todos.
 
 ## Development server
 
