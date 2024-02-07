@@ -1,13 +1,15 @@
-<h4 style="margin-left: 170px;"> Add Todos </h4>
-<form>
-    <div class="mb-3">
-      <label for="title" class="form-label">Todo Title</label>
-      <input type="text" class="form-control" id="title" aria-describedby="emailHelp">
-      <div id="emailHelp" class="form-text">We'll never share your email with anyone else.</div>
-    </div>
-    <div class="mb-3">
-      <label for="desc" class="form-label">Todo Description</label>
-      <input type="text" class="form-control" id="desc">
-    </div>
-    <button type="submit" class="btn btn-primary">Submit</button>
-  </form>
+<div class="my-3">
+    <h4> Add Todos </h4>
+    <form (ngSubmit)="onSubmit()">
+        <div class="mb-3">
+            <label for="title"  class="form-label">Todo Title</label>
+            <input type="text" [(ngModel)]="title" class="form-control" name="title" id="title" aria-describedby="emailHelp">
+        </div>
+        <div class="mb-3">
+            <label for="desc"  class="form-label">Todo Description</label>
+            <input type="text" name="desc" [(ngModel)]="desc" class="form-control" id="desc">
+        </div>
+        <button type="submit" class="btn btn-primary btn-sm">Add Todo</button>
+
+    </form>
+</div>

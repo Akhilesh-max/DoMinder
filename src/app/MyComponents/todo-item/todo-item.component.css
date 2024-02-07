@@ -1,3 +1,7 @@
-.todolist{
+.todolist {
     margin-left: 170px;
+}
+
+.strike {
+    text-decoration: line-through;
 }
