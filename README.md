@@ -1,10 +1,32 @@
 # DoMinder
 
-A basic todo list that helps you add and delete todos.
+<img width="1418" alt="Screenshot 2024-02-07 at 7 23 38 AM" src="https://github.com/Akhilesh-max/DoMinder/assets/124369508/e12775ac-8996-4ba4-96ae-de61f13b7a22">
+
+
+## Overview
+
+This is a robust and user-friendly To-Do application built with Angular and TypeScript. Designed as a Single-Page Application (SPA), it provides a seamless user experience with no need for page refreshes.
+
+## Features
+
+- **Create To-Dos**: Add new tasks to your list with ease.
+- **Remove To-Dos**: Clean up completed tasks or remove unwanted ones.
+- **Mark To-Dos as Done**: Keep track of your progress by marking tasks as done.
+
+## Persistence
+
+One of the standout features of this application is its use of local storage for data persistence. Your To-Dos are saved directly in your browser's local storage, and they persist across sessions. So, even if you close the application or restart your device, your To-Dos will still be there when you come back.
+
+## Tech Stack
+
+This application is built using Angular(v17) and TypeScript, harnessing the power of modern web development to provide a robust and efficient task management solution.
+
 
 ## Development server
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+1)  use `npm install` to install node_modules and other dependencies .
+
+2) Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
 Also, to automatically onen the server on the web use this command `ng s -o`.
 
 ## Build
