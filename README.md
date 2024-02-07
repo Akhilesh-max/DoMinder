@@ -1,7 +1,6 @@
 # DoMinder
 
-<img width="1418" alt="Screenshot 2024-02-07 at 7 23 38 AM" src="https://github.com/Akhilesh-max/DoMinder/assets/124369508/e12775ac-8996-4ba4-96ae-de61f13b7a22">
-
+<img width="1437" alt="Screenshot 2024-02-07 at 7 38 37 AM" src="https://github.com/Akhilesh-max/DoMinder/assets/124369508/e3e5862b-31c1-4877-9331-dbb7db5a1b47">
 
 ## Overview
 
