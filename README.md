@@ -5,7 +5,6 @@
 
 This is a robust and user-friendly To-Do application built with Angular and TypeScript. Designed as a Single-Page Application (SPA), it provides a seamless user experience with no need for page refreshes.
 
-<img width="1440" alt="Screenshot 2024-02-07 at 10 59 37 AM" src="https://github.com/Akhilesh-max/DoMinder/assets/124369508/2f01f8bd-baca-4ff0-b0fe-da7afab9d2ec">
 
 ## Features
 
@@ -20,9 +19,6 @@ One of the standout features of this application is its use of local storage for
 ## Tech Stack
 
 This application is built using Angular(v17) and TypeScript, harnessing the power of modern web development to provide a robust and efficient task management solution.
-
-<img width="1440" alt="Screenshot 2024-02-07 at 10 59 45 AM" src="https://github.com/Akhilesh-max/DoMinder/assets/124369508/b37e3830-6a5a-48fd-956c-ce55004da768">
-
 
 
 ## Development server
